@@ -1,0 +1,9 @@
+			 ___________________________________________________________________
+	Nhóm 05		|			      History                               |
+   Ngô Quang Nghĩa 	|                                                                   |
+   Lê Văn Vũ		|			Show history        (1)                     |
+   Nguyễn Trung Phiên	|                    	Remove a history    (2)                     |
+   			|	                Clear history       (3)                     |
+			|	                Visit a history     (4)                     |
+		        |                       Back                (0)                     |        						        |___________________________________________________________________|      						
+	
