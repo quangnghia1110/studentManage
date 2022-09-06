@@ -1,6 +1,6 @@
 			 ___________________________________________________________________     
 			|                                                                   |
-   	Nhóm 05		|			       Web                                  |
+   Nhóm 11		|			       Web                                  |
    Ngô Quang Nghĩa	|                                                                   |
    Lê Văn Vũ		|			Visit a website (1)                         |
    Nguyễn Trung Phiên   |              		Remove a web    (2)                         |
